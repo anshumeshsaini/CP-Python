@@ -1,5 +1,7 @@
 🐍 CP-Python – Competitive Programming with Python
 <p align="center"> <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python" /> <img src="https://img.shields.io/github/stars/anshumeshsaini/CP-Python?style=for-the-badge&color=yellow" /> <img src="https://img.shields.io/github/forks/anshumeshsaini/CP-Python?style=for-the-badge&color=orange" /> <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge" /> </p> <p align="center"> <b>A powerful collection of <i>Python practice programs</i> for Competitive Programming, Problem Solving & Logic Building 🚀</b> </p>
+
+
 ⚡ Why CP-Python?
 
 ✅ Beginner → Intermediate friendly
@@ -14,10 +16,10 @@
 
 CP-Python/
 │
-├── .idea/               # IDE configs
-├── Sheet-1/             # Basics & easy problems
-├── Sheet-2/             # Medium level problems
-├── Sheet-3/             # Advanced problems
+├── .idea/              
+├── Sheet-1/            
+├── Sheet-2/            
+├── Sheet-3/            
 │
 
 
