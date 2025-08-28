@@ -9,6 +9,9 @@
 ✅ Open-source 💡 – contribute & grow with the community
 
 📂 Repository Structure
+
+
+
 CP-Python/
 │
 ├── .idea/               # IDE configs
@@ -16,16 +19,7 @@ CP-Python/
 ├── Sheet-2/             # Medium level problems
 ├── Sheet-3/             # Advanced problems
 │
-├── Leap Year.py
-├── Loop/
-│   ├── divisor of a given +ve number.py
-│   ├── lenghtof digit.py
-│
-├── check divisble by 5 &11 .py
-├── check right triangle abtuse and actue .py
-├── find Minium in 3 number.py
-├── find max to 2 number.py
-└── print Days Using 1-7 numbers.py
+
 
 🚀 Getting Started
 
