@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2f95ec08-e0c8-4c54-a046-a9a505af1968" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Sheet-3/q1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sheet-3/q10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sheet-3/q11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sheet-3/q12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sheet-3/q13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sheet-3/q14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sheet-3/q2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sheet-3/q3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sheet-3/q5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sheet-3/q6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sheet-3/q7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sheet-3/q8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sheet-3/q9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sheet-1/Leap Year.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sheet-1/Leap Year.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sheet-1/check divisble by 5 &amp;11 .py" beforeDir="false" afterPath="$PROJECT_DIR$/Sheet-1/check divisble by 5 &amp;11 .py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sheet-1/check right triangle abtuse and actue .py" beforeDir="false" afterPath="$PROJECT_DIR$/Sheet-1/check right triangle abtuse and actue .py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sheet-1/divisor of a given +ve number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sheet-1/divisor of a given +ve number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sheet-1/find Minium in 3 number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sheet-1/find Minium in 3 number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sheet-1/find max to 2 number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sheet-1/find max to 2 number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sheet-1/lenghtof digit.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sheet-1/lenghtof digit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sheet-1/print Days Using 1-7 numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sheet-1/print Days Using 1-7 numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sheet-1/range.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sheet-1/range.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="31Aht4QfmtCeVZ01AvSnsqIVOM5" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.divisor of a given +ve number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.find max to 2 number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.range.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Rebasing main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/anshumeshsaini/PycharmProjects/Python/Loop&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Loop" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-8753aad8314d-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.25557.178" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f95ec08-e0c8-4c54-a046-a9a505af1968" name="Changes" comment="" />
+      <created>1754972995261</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754972995261</updated>
+    </task>
+    <servers />
+  </component>
+</project>

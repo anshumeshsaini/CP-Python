@@ -1,0 +1,11 @@
+lst=[1,2,3,4,5]
+print(lst[:])
+print(lst[::])
+print(lst[2:5])
+print(lst[2:])
+print(lst[2::])
+print(lst[:2])
+print(lst[:2])
+print(lst[::2])
+print(lst[1::2])
+print(lst[2:10:2])
